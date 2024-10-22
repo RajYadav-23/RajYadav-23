@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning dsa in java and webdev
 - 💞️ I’m looking to collaborate on projects with my seniors and productive ones
 - 📫 How to reach me by mailing me on rajyadav2923@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm handsome
 
 <!---
