@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajYadav-23
 - 👀 I’m interested in coding , video and photo editing 
-- 🌱 I’m currently learning dsa in java and webdev
+- 🌱 I’m currently learning dsa in java , webdev and Data Analytics
 - 💞️ I’m looking to collaborate on projects with my seniors and productive ones
 - 📫 How to reach me by mailing me on rajyadav2923@gmail.com
 - 😄 Pronouns: he/him
